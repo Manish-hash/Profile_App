@@ -25,6 +25,8 @@ void main() {
              const SizedBox(height: 10),
              const Text('Age:24'),
              const SizedBox(height: 10),
+             const Text("College: Vedas College"),
+             const SizedBox(height:10),
              const Text('Qualification: Bachelor Degree in Computer Science & Information Technology'),
              const SizedBox(height: 250),
              const Text("Developed by Manish Timalsina.", style:TextStyle(color: Colors.blueAccent),),
